@@ -1,0 +1,89 @@
+/* $aqua: #00ffffff;
+$capri: #00bfffff;
+$azure: #0080ffff;
+$blue-ryb: #0040ffff;
+$blue: #0000ffff;
+$ultramarine: #4000ffff;
+$violet-color-wheel: #8000ffff;
+$electric-purple: #bf00ffff;
+$magenta: #ff00ffff; */
+
+
+body {
+  margin: 0px;
+  text-align: center;
+  
+  font-family: 'Spinnaker', sans-serif;
+}
+
+#hero {
+  background-image: url("tokyo.jpg");
+  background-size: cover;
+  color: #f2f2f2;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tokyo1 {
+  background: #3a1d90;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+.tokyo2 {
+  background: #7243ff;
+  border-radius: 10px;
+  padding: 3px 25px;
+  margin-bottom: 50px;
+}
+
+.section {
+  background: #b7aae1;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+}
+
+.places {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.card {
+  background-color: #8863f7;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 0px 6px 8px #1D3557;
+  display: flex;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#guts {
+  width: 180px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.writeup {
+  font-style: italic;
+  font-weight: lighter
+}
+
+.anime {
+  width: 200px;
+  height: 230px;
+ 
+}
+
+.topsites {
+  background: #b7aae1;
+  margin: 0;
+  padding: 30px;
+  font-weight: bold;
+}
