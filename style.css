@@ -12,7 +12,7 @@ $magenta: #ff00ffff; */
 body {
   margin: 0px;
   text-align: center;
-  
+  width: 720px;
   font-family: 'Spinnaker', sans-serif;
 }
 
